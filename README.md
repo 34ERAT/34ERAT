@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am a passionate Full Stack Developer with a knack for crafting scalable and efficient web applications. My journey in the world of programming began [2] years ago, and since then, I have been dedicated to honing my skills in both frontend and backend development.
 <br>
 
 
